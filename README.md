@@ -11,15 +11,17 @@
 - rk 4 (done)
 - free in a box animation with classical solution (done)
 - potential (done)
+- box condition (done?)
+- derive finite difference for laplacian (done)
+- barrier in a box (done)
+- animation (with classical solution) (done)
 
 - convergence tests
-- box condition ?
-- barrier in a box
-- animation (with classical solution)
+- better parameters for barrier
+- classical sol for free?
 
 - compare codes: import data and compare.
 - comments and remove useless text from notebook
-- derive finite difference for laplacian
 - write readme (add pictures)
 - tag the final commit as "version 1 release"
 
