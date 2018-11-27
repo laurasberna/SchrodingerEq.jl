@@ -15,12 +15,12 @@
 - derive finite difference for laplacian (done)
 - barrier in a box (done)
 - animation (with classical solution) (done)
-
-- convergence tests
-- better parameters for barrier
-- classical sol for free?
+- better parameters for barrier (done)
+- convergence tests (done)
+- classical sol for free (done)
 
 - compare codes: import data and compare.
+
 - comments and remove useless text from notebook
 - write readme (add pictures)
 - tag the final commit as "version 1 release"
