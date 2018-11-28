@@ -19,7 +19,7 @@
 - convergence tests (done)
 - classical sol for free (done)
 
-- compare codes: import data and compare.
+- compare codes (first improve n): import data and compare.
 
 - comments and remove useless text from notebook
 - write readme (add pictures)
