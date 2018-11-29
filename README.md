@@ -18,10 +18,9 @@
 - better parameters for barrier (done)
 - convergence tests (done)
 - classical sol for free (done)
+- compare codes (first improve n): import data and compare. (done)
 
-- compare codes (first improve n): import data and compare.
-
-- comments and remove useless text from notebook
+- comments and remove useless text from notebook (check box condition)
 - write readme (add pictures)
 - tag the final commit as "version 1 release"
 
