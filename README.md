@@ -19,9 +19,8 @@
 - convergence tests (done)
 - classical sol for free (done)
 - compare codes (first improve n): import data and compare. (done)
-
-- comments and remove useless text from notebook, save pictures (1 done, 2 )
-
+- comments and remove useless text from notebook, save pictures (1 done, 2  done)
+- quantitative comparison codes. (?)
 - write readme (add pictures)
 - tag the final commit as "version 1 release"
 
